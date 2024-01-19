@@ -1,0 +1,9 @@
+.expand-course {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+.expand-course .card-header {
+    font-weight: bold;
+    text-align: center;
+}

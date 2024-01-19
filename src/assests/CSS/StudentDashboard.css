@@ -1,0 +1,24 @@
+.user-dashboard .card-body {
+    text-align: center;
+}
+.user-dashboard {
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+}
+ .user-dashboard .card{
+    width: 30rem;
+ }
+
+ .user-dashboard .padding {
+    padding-left: 4%;
+    padding-bottom: 8px;
+    padding-top: 26px;
+ }
+ .user-dashboard .button-click {
+    cursor: pointer;
+    float: inline-end;
+    font-size: 11px;
+    color: blue;
+ }
+
